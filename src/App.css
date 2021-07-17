@@ -1,0 +1,87 @@
+*{
+  margin:0;
+}
+.App{
+  background-color:#fafafa;
+  height:100%;
+}
+.Suggestion{
+  display:flex;
+  margin-right:10px;
+  align-items: center;
+  top: 120px;
+  right : 360px;
+ position: fixed;
+
+}
+.Suggestio3{
+  display:flex;
+  margin-right:10px;
+  align-items: center;
+  top: 200px;
+  right : 360px;
+ position: fixed;
+
+}
+.Suggestion1{
+  display:flex;
+  margin-right:10px;
+  align-items: center;
+  top: 250px;
+  right : 360px;
+ position: fixed;
+
+}
+.Suggestion4{
+  display:flex;
+  margin-right:10px;
+  align-items: center;
+  top: 400px;
+  right : 360px;
+ position: fixed;
+
+}
+.Suggestion3{
+  display:flex;
+  flex-direction: row;
+  margin-right:10px;
+  align-items: center;
+  top: 350px;
+  right : 360px;
+ position: fixed;
+
+}
+.Suggestion2{
+  display:flex;
+  margin-right:10px;
+  align-items: center;
+  top: 300px;
+  right : 360px;
+ position: fixed;
+
+}
+.App__Header{
+  background-color: white;
+  padding:20px;
+  border-bottom: 1px solid lightgray;
+  object-fit:contain;
+  display:flex;
+  justify-content: space-between;
+}
+.sbutton{
+  margin-left: 50px;
+  color: #2aa0ee;
+}
+
+
+.app_posts{
+  padding:20px;
+}
+.SignupForm{
+  display :flex;
+  flex-direction: column;
+}
+
+.App_headerImg{
+  object-fit: contain;
+}
